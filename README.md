@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
+  <img src="https://raw.githubusercontent.com/amitmerchant1990/reverie/master/images/reverie-text.png" alt="Reverie" width="200"/>
   <br>  
   <p align="center">
     <i>Support my work via <a href="https://paypal.me/AmitMerchant">Paypal</a></i>
@@ -17,11 +17,11 @@ Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and o
 
 This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https://pages.github.com) without even setting up a local environment.
 
-![](/images/reverie-demo.png)
+![](https://raw.githubusercontent.com/amitmerchant1990/reverie/master/images/reverie-demo.png)
 
 |  Responsiveness            |  Search | Categories |
 |---------------------|----------------------|----------------------|
-|![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) |
+|![Responsiveness](https://raw.githubusercontent.com/amitmerchant1990/reverie/master/images/mobile-demo.png) | ![search](https://raw.githubusercontent.com/amitmerchant1990/reverie/master/images/search.png) | ![categories](https://raw.githubusercontent.com/amitmerchant1990/reverie/master/images/categories.png) |
 
 ## Features overview
 
