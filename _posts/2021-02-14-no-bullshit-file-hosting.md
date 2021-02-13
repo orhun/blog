@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Spin Up Your Own "No-Bullshit" File Hosting Service
+title: Spin Up Your Own No-Bullshit File Hosting Service
 categories: [Services, Linux]
-excerpt: A guide for spinning up your own instance of "0x0", a no-bullshit file hosting and URL shortening service.
+excerpt: A guide for spinning up your own instance of 0x0, a no-bullshit file hosting and URL shortening service.
 ---
 
 [0x0](https://github.com/mia-0/0x0) (AKA "The Null Pointer") is a "no-bullshit file hosting and URL shortening service" that I've been using for a couple of months now. It's very easy to use, simple and straightforward. Although you can use the homepage of the project ([0x0.st](https://0x0.st/)) for hosting files and shortening links, I'd like to tell you how did I spin up my own instance of [0x0](https://github.com/mia-0/0x0) because (as the author of the project says) _centralization is bad!_
