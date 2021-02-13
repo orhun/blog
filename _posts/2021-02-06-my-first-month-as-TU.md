@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Month as an Arch Linux Trusted User
-categories: [Arch Linux, Packaging]
+categories: [Arch Linux, Packaging, Linux]
 excerpt: There's a start for everything. A new blog... New responsibilities... Maybe a new role in a Linux distribution that is for advanced users...
 ---
 
