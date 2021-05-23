@@ -6,9 +6,9 @@ permalink: /about/
 
 Hey!
 
-My name is Orhun Parmaksız. I'm living in [Turkey](https://en.wikipedia.org/wiki/Turkey), working as a **Backend Developer** at [Charmy Co.](https://charmy.app/), and studying **Software Engineering** at [Çankaya University](https://en.wikipedia.org/wiki/%C3%87ankaya_University).
+My name is Orhun Parmaksız. I'm living in [Turkey](https://en.wikipedia.org/wiki/Turkey), working as a **Backend Developer** and studying **Software Engineering**.
 
-I'm also an [open source developer](https://github.com/orhun). I've {created,contributed to} many open source projects. I mostly work with **Rust**, **Go**, **C**, **Python**, and **Java**.
+I'm an [open source developer](https://github.com/orhun). I've {created,contributed to} a number of open source projects. I mostly work with **Rust**, **Go**, **C**, **Python**, and sometimes **Java**.
 
 I'm very enthusiastic about Linux and I [maintain packages](https://archlinux.org/packages/?maintainer=orhun) for [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux) as a **Trusted User**.
 
